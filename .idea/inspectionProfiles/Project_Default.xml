@@ -1,0 +1,46 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="async" />
+          <option value="asyncpg" />
+          <option value="boto3" />
+          <option value="botocore" />
+          <option value="dnspython" />
+          <option value="email_validator" />
+          <option value="fastapi" />
+          <option value="fastapi-cli" />
+          <option value="greenlet" />
+          <option value="itsdangerous" />
+          <option value="Jinja2" />
+          <option value="jmespath" />
+          <option value="MarkupSafe" />
+          <option value="orjson" />
+          <option value="pg" />
+          <option value="pillow" />
+          <option value="psycopg2-binary" />
+          <option value="pydantic" />
+          <option value="pydantic-extra-types" />
+          <option value="pydantic-settings" />
+          <option value="pydantic_core" />
+          <option value="PyOpenGL" />
+          <option value="python-dateutil" />
+          <option value="python-multipart" />
+          <option value="rich-toolkit" />
+          <option value="s3transfer" />
+          <option value="sh" />
+          <option value="six" />
+          <option value="SQLAlchemy" />
+          <option value="starlette" />
+          <option value="typer" />
+          <option value="ujson" />
+          <option value="urllib3" />
+          <option value="uvicorn" />
+          <option value="watchfiles" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

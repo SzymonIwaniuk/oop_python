@@ -1,16 +1,9 @@
 [project]
 name = "oop-python"
 version = "0.1.0"
-description = "Learn Python OOP through hands-on coding"
-authors = [
-    {name = "Your Name",email = "you@example.com"}
-]
+description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.12"
+requires-python = ">=3.13"
 dependencies = [
+    "notebook>=7.5.0",
 ]
-
-
-[build-system]
-requires = ["poetry-core>=2.0.0,<3.0.0"]
-build-backend = "poetry.core.masonry.api"
